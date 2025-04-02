@@ -21,10 +21,3 @@ This is the **frontend** of the AI-powered Salon Revenue Optimizer, built with [
 
 ---
 
-## 🧑‍💻 Getting Started
-
-### 1. Clone the repo
-
-```bash
-git clone https://github.com/pyush001/salon-frontend.git
-cd salon-frontend
